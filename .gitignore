@@ -7,3 +7,7 @@ kaggle/kaggle.json
 data/
 
 udea-ai4eng-20242.zip
+
+logs.log
+
+catboost_info/
